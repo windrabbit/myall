@@ -1,0 +1,221 @@
+{
+   "addBookmark": {
+      "message": "收藏此页"
+   },
+   "btnAdd": {
+      "message": "确定"
+   },
+   "btnCancel": {
+      "message": "取消"
+   },
+   "btnDonate": {
+      "message": "通过贝宝赞助我"
+   },
+   "btnDonateHeader": {
+      "message": "捐助"
+   },
+   "changelog": {
+      "message": "查看更新日志"
+   },
+   "donateHeader": {
+      "message": "我很高兴你使用这个扩展.\u003Cbr/>如果你很喜欢它，你可以赞助我.\u003Cbr/>谢谢！"
+   },
+   "empty": {
+      "message": "空无一物"
+   },
+   "extDescription": {
+      "message": "显示书签功能. 适用于Chrome和谷歌书签."
+   },
+   "extTitle": {
+      "message": "书签"
+   },
+   "extTitleGoogle": {
+      "message": "谷歌书签"
+   },
+   "failedRetrieveGBookmakrs": {
+      "message": "检索不到谷歌书签"
+   },
+   "lblLabel": {
+      "message": "标签:"
+   },
+   "lblTitle": {
+      "message": "标题:"
+   },
+   "lblURL": {
+      "message": "链接:"
+   },
+   "loadingIndicator": {
+      "message": "加载中..."
+   },
+   "mainHeader": {
+      "message": "'书签功能'设置"
+   },
+   "needAllowIncognito": {
+      "message": "您需要允许'书签功能' 以无痕模式运行! 你可以用于扩展页面上."
+   },
+   "openAllBookmarks": {
+      "message": "打开所有书签"
+   },
+   "openAllBookmarksInIncognitoWindow": {
+      "message": "在隐身窗口中打开所有书签"
+   },
+   "openAllBookmarksInNewWindow": {
+      "message": "在新窗口中打开所有书签"
+   },
+   "openAllInTabs": {
+      "message": "打开所有标签"
+   },
+   "openBookmarkManager": {
+      "message": "书签管理器"
+   },
+   "openInIncognitoWindow": {
+      "message": "在隐身窗口打开"
+   },
+   "openInNewTab": {
+      "message": "在新标签打开"
+   },
+   "openInNewWindow": {
+      "message": "在新窗口中打开"
+   },
+   "reloadGBookmarks": {
+      "message": "刷新谷歌书签"
+   },
+   "remove": {
+      "message": "删除"
+   },
+   "reorder": {
+      "message": "按标题重新排序"
+   },
+   "tabBookmarks": {
+      "message": "书签"
+   },
+   "tabMouse": {
+      "message": "鼠标"
+   },
+   "tabWindow": {
+      "message": "用户界面设置"
+   },
+   "tbLabelSeparator": {
+      "message": "标签分隔:"
+   },
+   "tbSelectAllBookmarks": {
+      "message": "选择或取消选择所有书签"
+   },
+   "tbSelectBookmarks": {
+      "message": "请选择你想显示的书签"
+   },
+   "tbSelectFaviconService": {
+      "message": "请选择服务检索网站图标:"
+   },
+   "tbUseChrome": {
+      "message": "使用Chrome书签"
+   },
+   "tbUseGoogle": {
+      "message": "使用谷歌书签"
+   },
+   "tmLeftBtn": {
+      "message": "左键"
+   },
+   "tmMiddleBtn": {
+      "message": "中键"
+   },
+   "tmMouseConfig": {
+      "message": "鼠标设置"
+   },
+   "tmOpenInCurTab": {
+      "message": "在当前标签中打开"
+   },
+   "tmOpenInNewTab": {
+      "message": "在新标签中打开"
+   },
+   "tmRightBtn": {
+      "message": "右键"
+   },
+   "tmShowContextMenu": {
+      "message": "显示右键菜单"
+   },
+   "tmSwitchToNewTab": {
+      "message": "当我在新标签页打开书签立即切换到它"
+   },
+   "twActiveBmBgClr": {
+      "message": "书签高亮选中颜色:"
+   },
+   "twActiveBmBgClrFrom": {
+      "message": "由渐变:"
+   },
+   "twActiveBmBgClrTo": {
+      "message": "渐变至:"
+   },
+   "twActiveBmFntClr": {
+      "message": "书签高亮选中字体颜色:"
+   },
+   "twBmBgColor": {
+      "message": "书签内容背景颜色:"
+   },
+   "twBodyColor": {
+      "message": "书签窗口背景颜色:"
+   },
+   "twColorScheme": {
+      "message": "配色方案"
+   },
+   "twContextMenu": {
+      "message": "右键菜单设置"
+   },
+   "twDisabledItemFntClr": {
+      "message": "慎用的右键菜单字体颜色:"
+   },
+   "twFaviconSize": {
+      "message": "网站图标宽高:"
+   },
+   "twFont": {
+      "message": "字体:"
+   },
+   "twFontColor": {
+      "message": "字体颜色:"
+   },
+   "twFontSize": {
+      "message": "字体大小:"
+   },
+   "twHideCMModeSwitcher": {
+      "message": "隐藏菜单选项'使用Chrome或谷歌书签'"
+   },
+   "twHideCMOpenIncognito": {
+      "message": "隐藏菜单选项'在隐身窗口打开'"
+   },
+   "twMaxBookmarkWidth": {
+      "message": "书签的最大宽度:"
+   },
+   "twMaxBookmarkWidthCM": {
+      "message": "厘米单位"
+   },
+   "twMaxBookmarkWidthEM": {
+      "message": "相对长度单位"
+   },
+   "twMaxBookmarkWidthIN": {
+      "message": "英寸单位"
+   },
+   "twMaxBookmarkWidthMM": {
+      "message": "毫米单位"
+   },
+   "twMaxBookmarkWidthPX": {
+      "message": "像素单位"
+   },
+   "twMenuConfig": {
+      "message": "书签功能配置"
+   },
+   "twMesurePX": {
+      "message": "像素"
+   },
+   "twRestoreDflt": {
+      "message": "恢复默认设置"
+   },
+   "twScrollBarWidth": {
+      "message": "滚动条的宽度:"
+   },
+   "twShowTooltip": {
+      "message": "显示长书签名提示文字"
+   },
+   "twShowURL": {
+      "message": "显示提示书签使用位置"
+   }
+}
