@@ -51,7 +51,7 @@
       "message": "'书签功能'设置"
    },
    "needAllowIncognito": {
-      "message": "您需要允许'书签功能' 以无痕模式运行! 你可以用于扩展页面上."
+      "message": "在隐身模式运行您需要允许'书签功能' ! 你可以在扩展程序页上启用."
    },
    "openAllBookmarks": {
       "message": "打开所有书签"
@@ -177,7 +177,7 @@
       "message": "字体大小:"
    },
    "twHideCMModeSwitcher": {
-      "message": "隐藏菜单选项'使用Chrome或谷歌书签'"
+      "message": "隐藏菜单选项'使用Chrome以及谷歌书签'"
    },
    "twHideCMOpenIncognito": {
       "message": "隐藏菜单选项'在隐身窗口打开'"
@@ -201,7 +201,7 @@
       "message": "像素单位"
    },
    "twMenuConfig": {
-      "message": "书签功能配置"
+      "message": "书签功能设置"
    },
    "twMesurePX": {
       "message": "像素"
@@ -213,9 +213,9 @@
       "message": "滚动条的宽度:"
    },
    "twShowTooltip": {
-      "message": "显示长书签名提示文字"
+      "message": "显示长书签名文字"
    },
    "twShowURL": {
-      "message": "显示提示书签使用位置"
+      "message": "显示书签收藏链接"
    }
 }
